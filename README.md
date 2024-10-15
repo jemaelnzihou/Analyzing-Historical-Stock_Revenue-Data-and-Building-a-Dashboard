@@ -4,12 +4,19 @@ The tasks include obtaining stock data from yfinance, scraping revenue data from
 
 ## Breakdown of the Tasks:
 Question 1: Extracting Tesla Stock Data using yfinance 
-Question 2: Extracting Tesla Revenue Data using Web Scraping 
+
+Question 2: Extracting Tesla Revenue Data using Web Scraping
+
 Question 3: Extracting GameStop Stock Data using yfinance 
+
 Question 4: Extracting GameStop Revenue Data using Web Scraping 
-Question 5: Creating a Dashboard for Tesla Stock and Revenue Data 
-Question 6: Creating a Dashboard for GameStop Stock and Revenue Data 
+
+Question 5: Creating a Dashboard for Tesla Stock and Revenue Data
+
+Question 6: Creating a Dashboard for GameStop Stock and Revenue Data
+
 Question 7: Sharing the Assignment Notebook via GitHub 
+
 This introduction helps set the context for each of the tasks and the overall project goal.
 
 ## Extracting Tesla Stock Data Using yfinance
